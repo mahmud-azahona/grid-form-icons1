@@ -1,0 +1,35 @@
+.box1{
+	height: 100px;
+	background-color: #e90076;
+	margin: 5px auto;
+}
+.box2{
+	height: 100px;
+	background-color:#8A00C4;
+	margin: 5px auto;
+}
+.box3{
+	height: 100px;
+	background-color:#2CFF05;
+	margin: 5px 5px 0;
+}
+.form{
+	background-color: #dee2e6;
+}
+.submit:hover{
+	background-color: #dee2e6;
+	transition: 0.33s;
+}
+.tc{
+	text-decoration: none;
+	
+}
+.left {
+	font-size: 35px;
+	float: left;
+
+}
+.right{
+	font-size: 35px;
+	float: right;
+}
